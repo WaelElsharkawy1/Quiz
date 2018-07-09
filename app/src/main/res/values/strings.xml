@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="what_is_the_name_of_the_messenger_of_islam">What is the name of the messenger of islam?</string>
+    <string name="question_5">Question 5</string>
+    <string name="question_4">Question 4</string>
+    <string name="the_number_of_arab_countries_in_africa_is_11_countries">The number of Arab countries in Africa is 11 countries</string>
+    <string name="false1">False</string>
+    <string name="true1">True</string>
+    <string name="question_1">Question 1</string>
+    <string name="what_is_the_number_of_islamic_countries_that_belongs_to_the_organization_of_islamic_cooperation">What is the number of islamic countries that belongs to the Organization of Islamic Cooperation?</string>
+    <string name="how_many_muslims_in_the_world">How many Muslims in the world? ?</string>
+    <string name="which_of_these_countries_belongs_to_muslim_world">Which of these countries belongs to Muslim world ?</string>
+    <string name="question_3">Question 3</string>
+    <string name="_50">50</string>
+    <string name="_57">57</string>
+    <string name="_60">60</string>
+    <string name="egypt">Egypt</string>
+    <string name="india">India</string>
+    <string name="turkey">Turkey</string>
+    <string name="question_2">Question 2</string>
+    <string name="_1_billion_people">1 Billion people</string>
+    <string name="_1_2_million_people">1.2 Million people</string>
+    <string name="_1_2_billion_people">1.2 Billion people</string>
+    <string name="enter_your_answer">Enter your answer</string>
+    <string name="submit_your_answers">Submit your answers</string>
+</resources>
